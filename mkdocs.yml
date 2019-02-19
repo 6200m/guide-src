@@ -1,0 +1,10 @@
+site_name: Disconnect24 Guide
+site_description: 'The Official Guide for installing Disconnect24 services.'
+site_author: 'DC24'
+markdown_extensions:
+  - admonition
+theme:
+  name: 'material'
+  palette:
+    primary: 'deep purple'
+    accent: 'purple'
